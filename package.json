@@ -1,0 +1,10 @@
+{
+  "name": "bitbar-nightscout",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.0.0-alpha.12",
+    "moment": "^2.22.2"
+  }
+}
