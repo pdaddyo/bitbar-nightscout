@@ -1,5 +1,5 @@
 # bitbar-nightscout
-Show blood sugar history and live data from nightscout in your macOS task bar via this bitbar plugin.
+Show blood sugar history and live data from ![nightscout](http://www.nightscout.info) in your macOS task bar via this bitbar plugin.
 
 Shows last 3 hours data, trend, delta from last reading, insulin on board, carbs, battery and minutes since last data.
 
