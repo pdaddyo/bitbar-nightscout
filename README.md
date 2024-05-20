@@ -1,4 +1,4 @@
-# UPDATE - bitbar is no longer a supported app on modern macs
+# UPDATE May 2024 - bitbar is no longer a supported app on modern macs
 ## also the canvas api used for graph is deprecated 
 ## Here is a simple plugin script for bitbar's replacement: https://xbarapp.com/
 ### First install `fx` with `brew install fx` 
